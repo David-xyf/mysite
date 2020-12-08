@@ -19,10 +19,12 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kEW7RQtIN1rwwZo6nrrP8Q8rQp" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,7 +37,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../BioProject/Scrapy Tutorial/drug" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -90,6 +92,7 @@
       <workItem from="1607163328322" duration="16132000" />
       <workItem from="1607222035375" duration="25072000" />
       <workItem from="1607322169486" duration="12155000" />
+      <workItem from="1607398717444" duration="4076000" />
     </task>
     <servers />
   </component>
@@ -101,16 +104,24 @@
       <screen x="0" y="0" width="1707" height="960" />
     </state>
     <state x="476" y="144" key="#Inspections/0.0.1707.960@0.0.1707.960" timestamp="1607157667170" />
+    <state x="579" y="316" width="799" height="446" key="#Notifications" timestamp="1607405811593">
+      <screen x="0" y="0" width="1440" height="960" />
+    </state>
+    <state x="579" y="316" width="799" height="446" key="#Notifications/0.0.1440.960@0.0.1440.960" timestamp="1607405811593" />
     <state x="568" y="261" key="FileChooserDialogImpl" timestamp="1606824168148">
       <screen x="0" y="0" width="1707" height="960" />
     </state>
     <state x="479" y="261" key="FileChooserDialogImpl/0.0.1440.960@0.0.1440.960" timestamp="1605431617294" />
     <state x="568" y="261" key="FileChooserDialogImpl/0.0.1707.960@0.0.1707.960" timestamp="1606824168148" />
-    <state x="152" y="78" key="SettingsEditor" timestamp="1607175440993">
-      <screen x="0" y="0" width="1707" height="960" />
+    <state x="128" y="76" key="SettingsEditor" timestamp="1607399143731">
+      <screen x="0" y="0" width="1440" height="960" />
     </state>
-    <state x="128" y="137" key="SettingsEditor/0.0.1440.960@0.0.1440.960" timestamp="1605431622076" />
+    <state x="128" y="76" key="SettingsEditor/0.0.1440.960@0.0.1440.960" timestamp="1607399143731" />
     <state x="152" y="78" key="SettingsEditor/0.0.1707.960@0.0.1707.960" timestamp="1607175440993" />
+    <state x="484" y="375" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607405800813">
+      <screen x="0" y="0" width="1440" height="960" />
+    </state>
+    <state x="484" y="375" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.960@0.0.1440.960" timestamp="1607405800813" />
     <state x="465" y="4" width="775" height="956" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1606993857705">
       <screen x="0" y="0" width="1707" height="960" />
     </state>
