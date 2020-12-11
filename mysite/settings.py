@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'blog',
     'account',
     'article',
+    'image',
 ]
 
 MIDDLEWARE = [
@@ -135,3 +136,7 @@ EMAIL_SSL_CERTFILE = None
 EMAIL_SSL_KEYFILE = None
 EMAIL_TIMEOUT = None
 DEFAULT_FROM_EMAIL = "1845695900@qq.com"
+
+REDIS_HOST = "localhost"
+REDIS_PORT = 6379
+REDIS_DB = 0

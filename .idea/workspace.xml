@@ -37,10 +37,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../BioProject/Scrapy Tutorial/drug" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\xyf\Desktop\Python Code\funny demo\Django\mysite\mysite" />
       <recent name="C:\Users\xyf\Desktop\Python Code\funny demo\Django\mysite\templates" />
     </key>
   </component>
@@ -93,6 +94,13 @@
       <workItem from="1607222035375" duration="25072000" />
       <workItem from="1607322169486" duration="12155000" />
       <workItem from="1607398717444" duration="4076000" />
+      <workItem from="1607406156489" duration="916000" />
+      <workItem from="1607422388027" duration="4919000" />
+      <workItem from="1607479727900" duration="18660000" />
+      <workItem from="1607528345818" duration="207000" />
+      <workItem from="1607614642878" duration="1514000" />
+      <workItem from="1607653159181" duration="1308000" />
+      <workItem from="1607654561559" duration="2265000" />
     </task>
     <servers />
   </component>
@@ -113,11 +121,15 @@
     </state>
     <state x="479" y="261" key="FileChooserDialogImpl/0.0.1440.960@0.0.1440.960" timestamp="1605431617294" />
     <state x="568" y="261" key="FileChooserDialogImpl/0.0.1707.960@0.0.1707.960" timestamp="1606824168148" />
-    <state x="128" y="76" key="SettingsEditor" timestamp="1607399143731">
+    <state x="128" y="76" key="SettingsEditor" timestamp="1607407447871">
       <screen x="0" y="0" width="1440" height="960" />
     </state>
-    <state x="128" y="76" key="SettingsEditor/0.0.1440.960@0.0.1440.960" timestamp="1607399143731" />
+    <state x="128" y="76" key="SettingsEditor/0.0.1440.960@0.0.1440.960" timestamp="1607407447871" />
     <state x="152" y="78" key="SettingsEditor/0.0.1707.960@0.0.1707.960" timestamp="1607175440993" />
+    <state x="346" y="142" width="1350" height="678" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1607654742362">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="346" y="142" width="1350" height="678" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.864@0.0.1536.864" timestamp="1607654742362" />
     <state x="484" y="375" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607405800813">
       <screen x="0" y="0" width="1440" height="960" />
     </state>
@@ -127,9 +139,9 @@
     </state>
     <state x="392" y="366" width="613" height="281" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1440.960@0.0.1440.960" timestamp="1605431620619" />
     <state x="465" y="4" width="775" height="956" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1707.960@0.0.1707.960" timestamp="1606993857705" />
-    <state x="432" y="0" width="840" height="958" key="search.everywhere.popup" timestamp="1607325253670">
+    <state x="432" y="0" width="840" height="958" key="search.everywhere.popup" timestamp="1607518228413">
       <screen x="0" y="0" width="1707" height="960" />
     </state>
-    <state x="432" y="0" width="840" height="958" key="search.everywhere.popup/0.0.1707.960@0.0.1707.960" timestamp="1607325253670" />
+    <state x="432" y="0" width="840" height="958" key="search.everywhere.popup/0.0.1707.960@0.0.1707.960" timestamp="1607518228413" />
   </component>
 </project>
