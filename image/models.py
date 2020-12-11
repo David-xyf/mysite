@@ -9,7 +9,7 @@ class Image(models.Model):
     url = models.URLField()
     slug = models.SlugField(max_length=500, blank=True)
     description = models.TextField(blank=True)
-    created = models.DateTimeField(auto_now_add=True, db_index=True)
+    created = models.DateField(auto_now_add=True, db_index=True)
     image = models.ImageField(upload_to="images/%Y/%m/%d")
 
     def __str__(self):

@@ -1,6 +1,6 @@
 from django.contrib import admin
-from .models import BlogArticles
 
+from .models import BlogArticles
 
 
 class BlogArticlesAdmin(admin.ModelAdmin):

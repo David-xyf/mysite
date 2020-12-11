@@ -39,6 +39,8 @@ INSTALLED_APPS = [
     'account',
     'article',
     'image',
+    'sorl.thumbnail',
+    'course'
 ]
 
 MIDDLEWARE = [
@@ -140,3 +142,6 @@ DEFAULT_FROM_EMAIL = "1845695900@qq.com"
 REDIS_HOST = "localhost"
 REDIS_PORT = 6379
 REDIS_DB = 0
+
+MEDIA_URL = '/media/'
+MEDIA_ROOT = os.path.join(BASE_DIR, '/media/')

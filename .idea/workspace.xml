@@ -100,7 +100,7 @@
       <workItem from="1607528345818" duration="207000" />
       <workItem from="1607614642878" duration="1514000" />
       <workItem from="1607653159181" duration="1308000" />
-      <workItem from="1607654561559" duration="2265000" />
+      <workItem from="1607654561559" duration="16234000" />
     </task>
     <servers />
   </component>
@@ -108,9 +108,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="476" y="144" key="#Inspections" timestamp="1607157667170">
-      <screen x="0" y="0" width="1707" height="960" />
+    <state x="428" y="130" key="#Inspections" timestamp="1607661928808">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
+    <state x="428" y="130" key="#Inspections/0.0.1536.864@0.0.1536.864" timestamp="1607661928808" />
     <state x="476" y="144" key="#Inspections/0.0.1707.960@0.0.1707.960" timestamp="1607157667170" />
     <state x="579" y="316" width="799" height="446" key="#Notifications" timestamp="1607405811593">
       <screen x="0" y="0" width="1440" height="960" />
@@ -139,9 +140,10 @@
     </state>
     <state x="392" y="366" width="613" height="281" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1440.960@0.0.1440.960" timestamp="1605431620619" />
     <state x="465" y="4" width="775" height="956" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1707.960@0.0.1707.960" timestamp="1606993857705" />
-    <state x="432" y="0" width="840" height="958" key="search.everywhere.popup" timestamp="1607518228413">
-      <screen x="0" y="0" width="1707" height="960" />
+    <state x="389" y="0" width="840" height="863" key="search.everywhere.popup" timestamp="1607671093063">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
+    <state x="389" y="0" width="840" height="863" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1607671093063" />
     <state x="432" y="0" width="840" height="958" key="search.everywhere.popup/0.0.1707.960@0.0.1707.960" timestamp="1607518228413" />
   </component>
 </project>
